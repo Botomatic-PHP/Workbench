@@ -35,7 +35,7 @@ This guide contains only the essentials to get you started fast, for a comprehen
 __1.1 Clone the repository__
 
 ```cli
-git clone https://github.com/Botomatic-PHP/Workbench.git Botomatic
+git clone https://github.com/botomatic-php/workbench.git botomatic
 ```
 
 __1.2 Environment configuration__
@@ -43,7 +43,7 @@ __1.2 Environment configuration__
 * Move `.env.example` to `.env`
 * Make sure BOTOMATIC_FACEBOOK_DEBUG is set to true
 * Set BOTOMATIC_FACEBOOK_TEST_URL to your project's url
-* Setup any needed env. variables like database connection
+* Setup any needed .env variables like database connection
 
 __1.3 Install Botomatic__
 
