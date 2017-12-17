@@ -1,0 +1,1 @@
+@extends('default.pages.dashboard_template')
